@@ -7,7 +7,7 @@
 <br>step2 -> install in your android Device <br/>
 <br>step3 -> Let our AI handle it... :) <br/>
 
-<br>step3 -> some images are given Below <br/>
+<br> some images are given Below <br/>
 
 ### Main Screen
 <br><br/>

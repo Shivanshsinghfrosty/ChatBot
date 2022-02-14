@@ -11,12 +11,12 @@
 
 ### Main Screen
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/main.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/ChatBot/blob/main/image/1.jpeg" width="300" height="600" />
 
 ### Some Random Chats
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/1.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/ChatBot/blob/main/image/1.jpeg" width="300" height="600" />
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/2.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/ChatBot/blob/main/image/2.jpeg" width="300" height="600" />
 <br><br/>
-<img src="https://github.com/Shivanshsinghfrosty/Anime/blob/main/image/3.jpeg" width="300" height="600" />
+<img src="https://github.com/Shivanshsinghfrosty/ChatBot/blob/main/image/3.jpeg" width="300" height="600" />
